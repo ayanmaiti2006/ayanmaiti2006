@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**ayanmaiti2006/ayanmaiti2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Ayan Maiti
 
-Here are some ideas to get you started:
+🎓 **Branch:** Computer Science Engineering (Core)  
+📅 **Year:** 2025–2029
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I am currently learning programming and exploring new technologies, and I hope to build strong skills in AI and software development.
+
+---
+
+## 🚀 About Me
+- 💻 Beginner in coding
+- 📚 Interested in AI & ML
+- 🎯 Goal: Become a skilled software developer
+
+---
+
+## 🔧 Skills (Learning)
+- Python 🐍
+- Basics of AI & ML
+- Problem Solving
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/your-username
